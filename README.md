@@ -112,7 +112,7 @@ LinguistixAPI is a Flask-based RESTful API for sentiment analysis and text summa
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/LinguistixAPI/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/silenkiller18/LinguistixAPI/issues).
 
 ## 📜 License
 
