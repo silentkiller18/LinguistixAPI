@@ -1,0 +1,6 @@
+flask
+transformers
+langdetect
+Flask-Limiter
+Flask-HTTPAuth
+prometheus_flask_exporter
